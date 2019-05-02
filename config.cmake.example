@@ -1,0 +1,3 @@
+if(WIN32)
+	set(USR_FOLDER "path-to-win32-install") # the directory containing "include" and "lib"
+endif()
